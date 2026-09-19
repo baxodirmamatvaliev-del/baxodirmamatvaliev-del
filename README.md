@@ -1,42 +1,24 @@
-<div align="center">
+# Leo
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:F7F2E9,100:E7D7BD&height=145&section=header&text=Leo&fontSize=56&fontColor=3D352B&fontAlignY=42&desc=Full%20Stack%20Developer&descSize=17&descColor=6F6252&descAlignY=72" alt="Leo — Full Stack Developer" />
+---
 
-<br />
+> *Full stack developer building web applications, real-time features, and interactive experiences.*
 
-I build thoughtful web applications, reliable APIs, and interactive experiences.
+— **ABOUT**  
+I work across the stack, from responsive interfaces to APIs and databases. I enjoy creating useful products and exploring new ways to make the web more interactive.
 
-[Projects](https://github.com/baxodirmamatvaliev-del?tab=repositories) · [GitHub](https://github.com/baxodirmamatvaliev-del)
+— **CORE STACK**  
+JavaScript · TypeScript · Python · React · Next.js · Node.js · Express.js · NestJS · MongoDB
 
-</div>
+— **ALSO WORKING WITH**  
+GraphQL · Apollo Client · REST APIs · WebSockets · Mongoose · JWT · Three.js · React Three Fiber · Drei · Sass · Material UI · styled-components · EJS · Chart.js · Swiper · i18next · Git
 
-<br />
+— **WORK**  
+[Explore my repositories](https://github.com/baxodirmamatvaliev-del?tab=repositories)
 
-### About
+---
 
-I'm Leo, a full stack developer working with modern web technologies. I enjoy building products from the interface to the database, including real-time and 3D features.
-
-### Stack
-
-| | Technologies |
-| :--- | :--- |
-| **Languages** | JavaScript · TypeScript · Python |
-| **Frontend** | React · Next.js · EJS · HTML · CSS |
-| **UI & styling** | Sass · Material UI · styled-components |
-| **Backend** | Node.js · Express.js · NestJS |
-| **APIs & real-time** | REST · GraphQL · Apollo Client · Axios · WebSockets |
-| **Database & auth** | MongoDB · Mongoose · Aggregation Pipeline · JWT |
-| **3D & extras** | Three.js · React Three Fiber · Drei · React Spring · Chart.js · Swiper · i18next |
-| **Tools** | Git · GitHub |
-
-<br />
-
-<div align="center">
-
-<sub>Always learning, building, and refining.</sub>
-
-</div>
-
+<sub>Leo · Full Stack Developer</sub>
 
 ## 👨‍💻 About Me
 
