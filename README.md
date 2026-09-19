@@ -1,65 +1,74 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1220,100:1E293B&height=190&section=header&text=LEO&fontSize=72&fontColor=FFFFFF&fontAlignY=42&desc=FULL%20STACK%20DEVELOPER&descSize=18&descAlignY=72&descColor=94A3B8" alt="Leo — Full Stack Developer" />
+# Leo
+
+### Full Stack Developer
+
+I build web applications, real-time features, and interactive experiences.
+
+[Portfolio of projects](https://github.com/baxodirmamatvaliev-del?tab=repositories) · [GitHub profile](https://github.com/baxodirmamatvaliev-del)
 
 <br />
 
-**Building useful web applications and engaging digital experiences.**
+![Profile views](https://komarev.com/ghpvc/?username=baxodirmamatvaliev-del&style=flat-square&color=6366f1&label=Profile+views)
+![GitHub followers](https://img.shields.io/github/followers/baxodirmamatvaliev-del?style=flat-square&color=6366f1&label=Followers)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Explore%20my%20work-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/baxodirmamatvaliev-del?tab=repositories)
-![Profile Views](https://komarev.com/ghpvc/?username=baxodirmamatvaliev-del&style=for-the-badge&color=334155&label=PROFILE+VIEWS)
+</div>
+
+---
+
+## About me
+
+I'm Leo, a full stack developer interested in building complete web products — from responsive interfaces to APIs, databases, and real-time communication.
+
+I enjoy working with JavaScript and TypeScript, exploring 3D on the web, and improving the quality of every project I build.
+
+## Technologies I work with
+
+| | Stack |
+| --- | --- |
+| **Languages** | JavaScript, TypeScript, Python |
+| **Frontend** | HTML, CSS, React, Next.js, EJS |
+| **Styling & UI** | Sass / SCSS, Material UI, styled-components |
+| **Backend** | Node.js, Express.js, NestJS |
+| **APIs & data fetching** | REST APIs, GraphQL, Apollo Client, Axios |
+| **Real-time** | WebSockets, GraphQL subscriptions |
+| **Databases** | MongoDB, Mongoose, Aggregation Pipeline |
+| **Authentication** | JWT, authentication, authorization |
+| **3D & interaction** | Three.js, React Three Fiber, Drei, React Spring |
+| **Other libraries** | Chart.js, Swiper, i18next |
+| **Tools** | Git, GitHub |
+
+<br />
+
+<div align="center">
+
+### Tools behind my projects
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,nodejs,express,graphql,mongodb,threejs,sass,git&perline=6&theme=dark" alt="JavaScript, TypeScript, Python, React, Next.js, Node.js, Nest.js, Express, GraphQL, MongoDB, Three.js, Sass, Git" />
+
 
 </div>
 
 <br />
 
-### A little about me
+## What I'm focused on
 
-I'm Leo, a full stack developer who enjoys building web applications from interface to API. I work with modern JavaScript tools, real-time features, and interactive experiences.
+- Building full stack applications with clear, responsive interfaces
+- Connecting frontend applications to REST and GraphQL APIs
+- Adding real-time features with WebSockets
+- Creating interactive web experiences with Three.js
+- Writing code that is easier to understand and maintain
 
-I care about readable code, practical solutions, and getting a little better with every project.
+---
 
-<br />
+<div align="center">
 
-<table>
-<tr>
-<td width="62%" valign="top">
+**Always learning. Always building.**
 
-### Tech Stack
+[Explore my repositories →](https://github.com/baxodirmamatvaliev-del?tab=repositories)
 
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css&theme=dark" alt="JavaScript, TypeScript, React, Next.js, HTML, CSS" />
-
-**Backend & Data**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,graphql,mongodb&theme=dark" alt="Node.js, Express, GraphQL, MongoDB" />
-
-**Creative & Tools**
-
-<img src="https://skillicons.dev/icons?i=threejs,python,git,github&theme=dark" alt="Three.js, Python, Git, GitHub" />
-
-**Also working with:** WebSockets · REST APIs · Mongoose · JWT · EJS
-
-</td>
-<td width="38%" valign="top">
-
-### Currently exploring
-
-- Building full stack projects
-- Creating real-time features with WebSockets
-- Learning more about 3D on the web
-- Improving API design and code structure
-
-</td>
-</tr>
-</table>
-
-<br />
-
-### What I like to build
-
-```text
+</div>
 01  Web apps with clean, responsive interfaces
 02  APIs that are easy to use and maintain
 03  Real-time interactions
