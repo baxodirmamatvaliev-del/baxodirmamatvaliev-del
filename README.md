@@ -1,77 +1,52 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:EC4899&height=220&section=header&text=Bakhodir%20|%20DEV&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descSize=20&animation=fadeIn" />
+# Leo
 
-<br/>
+### Full Stack Developer
 
-<a href="https://github.com/baxodirmamatvaliev-del">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=EC4899&center=true&vCenter=true&width=500&lines=%F0%9F%91%8B+Salom%2C+men+Bakhodirman;Full+Stack+Developer;MERN+%7C+TypeScript+%7C+Python" alt="Typing SVG" />
-</a>
+I build web applications with a focus on clear interfaces, reliable APIs, and thoughtful user experiences.
 
-<br/><br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=baxodirmamatvaliev-del&color=ec4899&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/baxodirmamatvaliev-del?style=for-the-badge&color=6366f1&labelColor=black)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/baxodirmamatvaliev-del)
+![Profile Views](https://komarev.com/ghpvc/?username=baxodirmamatvaliev-del&style=flat-square&color=6366f1)
 
 </div>
 
-<br/>
+---
 
-## ⚡ Tech Stack
+## About Me
+
+I work across the stack, from building responsive React interfaces to developing APIs and working with databases. I enjoy turning ideas into functional products and learning technologies that make the web more interactive.
+
+- Building applications with **React, Next.js, Node.js, and TypeScript**
+- Working with **REST APIs, GraphQL, and WebSockets**
+- Exploring interactive 3D experiences with **Three.js**
+- Using **MongoDB and Mongoose** for data management
+
+## Tech Stack
+
+| Area | Technologies |
+| --- | --- |
+| **Frontend** | JavaScript, TypeScript, React, Next.js, EJS |
+| **Backend** | Node.js, REST API, GraphQL, WebSockets |
+| **3D & Interactive** | Three.js, React Three Fiber |
+| **Database** | MongoDB, Mongoose |
+| **Authentication** | JWT, Authentication, Authorization |
+| **Tools & Languages** | Git, Python |
+
+## What I Enjoy Building
+
+- Full stack web applications
+- Real-time features and interactive interfaces
+- API-driven products
+- Clean, responsive user experiences
+
+---
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![EJS](https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black)
+**Explore my work on [GitHub](https://github.com/baxodirmamatvaliev-del?tab=repositories).**
 
 </div>
-
-<br/>
-
-## 🗄️ Databases
-
-<div align="center">
-
-![MongoDB](https://img.shields.io/badge/MongoDB-Database-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-ODM-B0271A?style=for-the-badge&logo=mongoose&logoColor=white)
-
-MongoDB • Mongoose ODM • Aggregation Pipeline
-
-</div>
-
-<br/>
-
-## 🔐 APIs & Authentication
-
-<div align="center">
-
-![REST](https://img.shields.io/badge/REST-API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-Authentication-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-
-REST API • JWT • Authentication • Authorization
-
-</div>
-
-<br/>
-
-## 💻 Programming Languages
-
-<div align="center">
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-</div>
-
-<br/>
-
 
 
 ## 👨‍💻 About Me
