@@ -1,6 +1,7 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:161B22&height=200&section=header&text=LEO&fontSize=72&fontColor=F0F6FC&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER&descSize=18&descColor=8B949E&descAlignY=67" alt="Leo — Full Stack Developer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:161B22&height=200&section=header&text=LEO&fontSize=72&fontColor=F0F6FC&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER&descSize=18&descColor=8B949E&descAlignY=67" alt="Leo — Software &
+AI Engineer" />
 
 <br />
 
