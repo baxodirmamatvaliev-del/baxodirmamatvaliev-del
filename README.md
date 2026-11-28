@@ -40,31 +40,6 @@ I'm a Full-Stack Developer and AI Engineer passionate about building scalable we
 
 ---
 
-### 🚀 Featured Projects
-
-| Project | Description | Link |
-| :--- | :--- | :--- |
-| 🐾 **KoreaPet** | Full-Stack pet marketplace with real-time chat, product management, shopping cart, authentication and admin dashboard. Built with Next.js, NestJS, GraphQL and MongoDB. | [koreapet.tech ↗](https://koreapet.tech/) |
-| ☕ **Morrow Coffee** | E-commerce platform with 3D Cake Builder, AI Cake Designer, real-time order tracking and admin dashboard. | E-Commerce |
-| 🧠 **JaydariGPT** | Language model project focused on AI, LLM development, fine-tuning and Hugging Face. | Artificial Intelligence |
-| 🎓 **Enginx** | Online programming education platform. | [enginx.uz ↗](http://enginx.uz/) |
-| 👁️ **Face Detection** | Real-time face detection system using Python and OpenCV. | Computer Vision |
-
----
-
-### 🏗️ Development Architecture
-
-- Model-View-Controller (MVC)
-- Dependency Injection (DI)
-- RESTful API & GraphQL
-- Authentication & Authorization
-- JWT & Role-Based Access Control
-- Real-Time Communication
-- Modular Backend Architecture
-- Database Modeling
-
----
-
 
 ### 🌍 Languages
 
