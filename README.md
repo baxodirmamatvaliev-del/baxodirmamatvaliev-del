@@ -1,59 +1,95 @@
-<div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:161B22&height=200&section=header&text=LEO&fontSize=72&fontColor=F0F6FC&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER&descSize=18&descColor=8B949E&descAlignY=67" alt="Leo — Software &
-AI Engineer" />
+<h1 align="center">Hey, I'm Leo! 👋</h1>
 
-<br />
+<h3 align="center">Full-Stack Developer & AI Engineer</h3>
 
-**I build modern web applications, real-time features, and interactive experiences.**
+<p align="center">
+  Building Web Applications, Real-Time Systems & AI Solutions
+</p>
 
-[![GitHub](https://img.shields.io/badge/EXPLORE_MY_WORK-21262D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/baxodirmamatvaliev-del?tab=repositories)
+<p align="center">
+  📍 Based in South Korea 🇰🇷
+</p>
 
-</div>
+---
 
-<br />
+### 👨‍💻 About Me
 
-<table>
-<tr>
-<td width="60%" valign="top">
+I'm a Full-Stack Developer and AI Engineer passionate about building scalable web applications, reliable backend systems, and AI-powered solutions.
 
-### Tech Stack
+- 💻 Full-Stack Web Development
+- 🤖 AI & LLM Integration
+- ⚡ Real-Time Applications
+- 🛠️ Backend Architecture & API Development
+- 🗄️ Database Design & Management
+- 🚀 Deployment & Server Management
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,nestjs,graphql,mongodb,threejs,git&perline=5&theme=dark" alt="JavaScript, TypeScript, React, Next.js, Node.js, NestJS, GraphQL, MongoDB, Three.js, Git" />
+---
 
-<br />
+### 🛠️ AI & Technical Arsenal
 
-**Frontend:** React · Next.js · EJS · Sass · Material UI  
-**Backend:** Node.js · Express.js · NestJS  
-**Data & APIs:** MongoDB · Mongoose · REST · GraphQL · Apollo Client  
-**Real-time & 3D:** WebSockets · Three.js · React Three Fiber · Drei
+| Category | Technologies |
+| :--- | :--- |
+| 🤖 **AI & LLM Systems** | ![OpenAI](https://img.shields.io/badge/OpenAI_API-111827?style=for-the-badge&logo=openai) ![Claude](https://img.shields.io/badge/Claude_Code-111827?style=for-the-badge&logo=claude&logoColor=D97757) ![HuggingFace](https://img.shields.io/badge/Hugging_Face-111827?style=for-the-badge&logo=huggingface) ![AI](https://img.shields.io/badge/AI_Agents-111827?style=for-the-badge) ![FineTuning](https://img.shields.io/badge/Fine--Tuning-111827?style=for-the-badge) ![OpenCV](https://img.shields.io/badge/OpenCV-111827?style=for-the-badge&logo=opencv) |
+| 💻 **Core Languages** | <img src="https://skillicons.dev/icons?i=ts,js,python,java,html,css&theme=dark" /> ![SQL](https://img.shields.io/badge/SQL-252936?style=for-the-badge) |
+| ⚡ **Backend & APIs** | <img src="https://skillicons.dev/icons?i=nestjs,nodejs,spring,express,graphql,apollo&theme=dark" /> <br/> ![WebSocket](https://img.shields.io/badge/WebSocket-111827?style=for-the-badge) ![SocketIO](https://img.shields.io/badge/Socket.IO-111827?style=for-the-badge&logo=socketdotio) ![REST](https://img.shields.io/badge/REST_API-111827?style=for-the-badge) |
+| 🎨 **Frontend** | <img src="https://skillicons.dev/icons?i=nextjs,react,redux,materialui,sass,threejs,jquery&theme=dark" /> |
+| 🗄️ **Database** | <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis&theme=dark" /> ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose) |
+| ☁️ **DevOps & Cloud** | <img src="https://skillicons.dev/icons?i=docker,linux,bash,git,github&theme=dark" /> ![Hostinger](https://img.shields.io/badge/Hostinger_VPS-673DE6?style=for-the-badge&logo=hostinger) |
+| 🧪 **Tools & Testing** | <img src="https://skillicons.dev/icons?i=vscode,postman,npm,yarn&theme=dark" /> ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge) |
 
-</td>
-<td width="40%" valign="top">
+---
 
-### Currently
+### 🚀 Featured Projects
 
-- Building full stack projects
-- Exploring real-time features
-- Creating interactive web experiences
-- Improving with every project
+| Project | Description | Link |
+| :--- | :--- | :--- |
+| 🐾 **KoreaPet** | Full-Stack pet marketplace with real-time chat, product management, shopping cart, authentication and admin dashboard. Built with Next.js, NestJS, GraphQL and MongoDB. | [koreapet.tech ↗](https://koreapet.tech/) |
+| ☕ **Morrow Coffee** | E-commerce platform with 3D Cake Builder, AI Cake Designer, real-time order tracking and admin dashboard. | E-Commerce |
+| 🧠 **JaydariGPT** | Language model project focused on AI, LLM development, fine-tuning and Hugging Face. | Artificial Intelligence |
+| 🎓 **Enginx** | Online programming education platform. | [enginx.uz ↗](http://enginx.uz/) |
+| 👁️ **Face Detection** | Real-time face detection system using Python and OpenCV. | Computer Vision |
 
-</td>
-</tr>
-</table>
+---
 
-<details>
-<summary><b>More technologies I work with</b></summary>
-<br />
+### 🏗️ Development Architecture
 
-Python · HTML · CSS · styled-components · Axios · GraphQL subscriptions · Aggregation Pipeline · JWT · React Spring · Chart.js · Swiper · i18next · GitHub
+- Model-View-Controller (MVC)
+- Dependency Injection (DI)
+- RESTful API & GraphQL
+- Authentication & Authorization
+- JWT & Role-Based Access Control
+- Real-Time Communication
+- Modular Backend Architecture
+- Database Modeling
 
-</details>
+---
 
-<br />
 
-<div align="center">
+### 🌍 Languages
 
-<sub>CODE · BUILD · IMPROVE · REPEAT</sub>
+- 🇺🇿 Uzbek — Native
+- 🇰🇷 Korean — Fluent
+- 🇬🇧 English — Intermediate
+- 🇷🇺 Russian — Intermediate
 
-</div>
+
+---
+
+### 🤝 Let's Connect
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Open_to_Work-238636?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Full--Stack_Developer-0078D4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI_Engineer-8B5CF6?style=for-the-badge" />
+</p>
+
+---
+
+<p align="center">
+  <i>Build. Learn. Improve. Repeat.</i>
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
